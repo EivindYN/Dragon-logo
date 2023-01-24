@@ -1,7 +1,6 @@
 {
   "homepage": "https://eivindyn.github.io/Dragon-logo",
   "name": "game-master",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
