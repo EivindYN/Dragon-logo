@@ -1,4 +1,7 @@
 {
+  "homepage": "https://eivindyn.github.io/Dragon-logo",
+  "predeploy": "yarn run build",
+  "deploy": "gh-pages -d build",
   "name": "game-master",
   "private": true,
   "version": "0.0.0",
